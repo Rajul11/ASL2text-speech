@@ -29,11 +29,14 @@ Visualization Tools: Confusion matrix, accuracy metrics, and bounding boxes duri
 
 6.TextBlob: Spelling autocorrection
 
-7. / Pandas: Data manipulation
+7.Pandas: Data manipulation
 
 
 # How to Run
 1.Clone the repository
+
 2.Install dependencies
+
 3.Train the model
+
 4.Run the webcam app
