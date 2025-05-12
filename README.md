@@ -31,21 +31,7 @@ Visualization Tools: Confusion matrix, accuracy metrics, and bounding boxes duri
 
 7. / Pandas: Data manipulation
 
-# project Structure
-ASL_Project/
-│
-├── dataset/                         # ASL images organized by class
-├── model/                           # Saved trained model
-├── notebooks/                       # Optional analysis notebooks
-├── src/
-│   ├── data_loader.py              # Custom dataset loader
-│   ├── preprocessing.py            # Landmark normalization
-│   ├── model.py                    # Neural network definition
-│   ├── train.py                    # Training pipeline
-│   ├── evaluate.py                 # Evaluation and metrics
-│   └── webcam_inference.py        # Real-time webcam detection
-├── requirements.txt                # Required packages
-└── README.md                       # Project description and instructions
+
 # How to Run
 1.Clone the repository
 2.Install dependencies
